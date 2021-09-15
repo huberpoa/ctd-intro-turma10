@@ -1,0 +1,4 @@
+A palavra “informática” é derivada das palavras informação + automática. As palavras definem os objetivos do 
+surgimento dos computadores: a necessidade de se fazer o tratamento da informação de forma automatizada, fez 
+com que surgisse essa palavra. Pode dizer-se que informática é a ciência que estuda o processamento automático 
+da informação através de um computador.

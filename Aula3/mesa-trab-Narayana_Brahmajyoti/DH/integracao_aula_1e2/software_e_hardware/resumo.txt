@@ -1,0 +1,4 @@
+Software é um conjunto de instruções que devem ser seguidas e executadas por um mecanismo, seja ele um computador
+ou um aparato eletromecânico.
+Hardware é a parte física do computador, ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que 
+fazem o computador funcionar.
