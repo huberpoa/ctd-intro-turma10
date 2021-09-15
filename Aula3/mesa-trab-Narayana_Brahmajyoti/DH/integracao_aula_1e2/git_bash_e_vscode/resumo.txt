@@ -1,0 +1,3 @@
+Git Bash éo conjunto de programas de utilitários de linha e comando projetado para ser executado em ambientes 
+de linha de comando no estilo Unix. 
+O Vs code é um editor de código fonte.

@@ -1,0 +1,2 @@
+A Interface com o Usuário é uma parte fundamental de um software; é a parte do sistema visível 
+para o usuário, através da qual, ele se comunica para realizar suas tarefas.
